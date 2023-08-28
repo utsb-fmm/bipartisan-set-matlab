@@ -1,6 +1,6 @@
 # bipartisan-set-matlab
 
-Matlab program to compute the Bipartisan set, also known as the essential set.
+Matlab program to compute the Bipartisan set, also known as the essential set, or the Rock-Paper-Scissors like game optimal strategy.
 
 To have examples, just type 'demo' in Matlab.
 
