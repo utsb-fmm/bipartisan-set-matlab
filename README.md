@@ -1,8 +1,8 @@
 # bipartisan-set-matlab
 
-Matlab program to compute the Bipartisan set, also known as the essential set
+Matlab program to compute the Bipartisan set, also known as the essential set.
 
-To have examples just type 'demo' in Matlab.
+To have examples, just type 'demo' in Matlab.
 
 
 ## If you use this program in a published work, please cite:
