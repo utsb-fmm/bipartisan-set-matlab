@@ -7,4 +7,4 @@ To have examples, just type 'demo' in Matlab.
 
 ## If you use this program in a published work, please cite:
 
-S. Boudet, "Bipartisan/Range voting in two rounds reaches a promising balance between efficiency and strategy resistance", preprint, 2023
+Boudet, S. Bipartisan/Range Voting in Two Rounds Reaches a Promising Balance between Efficiency and Strategy-Resistance. Preprints 2023, 2023090388. https://doi.org/10.20944/preprints202309.0388.v1
